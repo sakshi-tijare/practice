@@ -1,0 +1,19 @@
+.cbtn{
+    background:gray;
+border-radius: 50%;
+border: 1px solid #050505;
+padding: 2px;
+}
+.text-gray{
+    color:A0A0A0;
+}
+.bg-cream{
+    background-color: FDF4DC;
+}
+.custom-gradient{
+    background-color:linear-gradient( to left,FFEDE1 );
+}
+
+.my-custom-gradient {
+    background: linear-gradient(to left, #FFEDE1, #ffffff,#CDC5B2);
+}
